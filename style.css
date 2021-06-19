@@ -1,0 +1,35 @@
+.body_backgorund {
+    background-image: url("https://i.postimg.cc/sgCrgtsG/cupcakes-2887270-1920.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: black; 
+      font-size: 70px;
+      font-family:cursive ;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #F7CAC9;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 10px 42px;
+    font-size: 21px;
+    font-family: cursive;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  
